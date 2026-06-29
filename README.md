@@ -14,9 +14,9 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=longmoon2k4&theme=nightowl&hide_border=true&cache_seconds=86400" alt="longmoon2k4's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=longmoon2k4&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hà Vũ Long's GitHub Trophies" />
-</p>
+</p> -->
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=longmoon2k4&theme=nightowl&radius=10" alt="longmoon2k4's Activity Graph" />
 </p>
